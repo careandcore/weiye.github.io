@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://careandcore.github.io/weiye.github.io/</id>
+    <id>https://careandcore.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-10-06T13:34:54.508Z</updated>
+    <updated>2020-10-06T13:36:53.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://careandcore.github.io/weiye.github.io/"/>
-    <link rel="self" href="https://careandcore.github.io/weiye.github.io/atom.xml"/>
+    <link rel="alternate" href="https://careandcore.github.io/"/>
+    <link rel="self" href="https://careandcore.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://careandcore.github.io/weiye.github.io/images/avatar.png</logo>
-    <icon>https://careandcore.github.io/weiye.github.io/favicon.ico</icon>
+    <logo>https://careandcore.github.io/images/avatar.png</logo>
+    <icon>https://careandcore.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://careandcore.github.io/weiye.github.io/post/hello-gridea/</id>
-        <link href="https://careandcore.github.io/weiye.github.io/post/hello-gridea/">
+        <id>https://careandcore.github.io/post/hello-gridea/</id>
+        <link href="https://careandcore.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
