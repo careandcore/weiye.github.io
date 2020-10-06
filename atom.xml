@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careandcore.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-10-06T13:36:53.421Z</updated>
+    <updated>2020-10-06T13:41:23.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://careandcore.github.io/"/>
     <link rel="self" href="https://careandcore.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://careandcore.github.io/images/avatar.png</logo>
     <icon>https://careandcore.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[day01]]></title>
+        <id>https://careandcore.github.io/post/day01/</id>
+        <link href="https://careandcore.github.io/post/day01/">
+        </link>
+        <updated>2020-10-06T13:38:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>😃缓缓飘落的枫叶像思念~</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>😃缓缓飘落的枫叶像思念~</p>
+<!-- more -->
+<!-- more -->
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://careandcore.github.io/post/hello-gridea/</id>
